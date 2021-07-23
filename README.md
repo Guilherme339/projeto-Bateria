@@ -1,2 +1,2 @@
 # projeto-Bateria
-projeto sistema bateria com Javascript
+projeto sistema bateria com html/CSS / Javascript
